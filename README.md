@@ -1,5 +1,5 @@
 Overview
-This Python-based application provides a user-friendly interface for creating, managing, and tracking tasks. It leverages the power of Python's libraries and tools to offer a robust and efficient task management solution.
+This Python-based implementation provides for creating and managing tasks. It offer a robust and efficient task management solution.
 
 Features
 Task Creation: Add new tasks with detailed descriptions, due dates, and priorities.
